@@ -1,4 +1,9 @@
-# Shadcn-UI Template Usage Instructions
+⚖️ Ownership Notice
+
+All source code, documentation, and related materials in this repository are the intellectual property of the developer, Reza Sahebozamani.
+Unauthorized reproduction, distribution, modification, or commercial use of any part of this project is strictly prohibited without prior written permission from the owner.
+
+© Reza Sahebozamani. All rights reserved.
 
 ## technology stack
 
